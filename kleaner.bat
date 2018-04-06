@@ -41,9 +41,27 @@ del /F /S /Q "%USERPROFILE%\AppData\Roaming\Disk-O\logs"
 del /F /S /Q "%USERPROFILE%\AppData\Roaming\Mozilla\Firefox\Crash Reports"
 
 rem Apps data etc
+del /F /S /Q "C:\NVIDIA"
 del /F /S /Q "%ProgramFiles(x86)%\Steam\logs"
 del /F /S /Q "C:\ProgramData\GOG.com\Galaxy\logs"
-del /F /S /Q "C:\NVIDIA"
+del /F /S /Q "C:\ProgramData\chocolatey\.chocolatey"
+del /F /S /Q "C:\ProgramData\chocolatey\lib-bad"
+del /F /S /Q "C:\ProgramData\chocolatey\lib-bkp"
+del /F /S /Q "C:\ProgramData\chocolatey\logs"
+del /F /S /Q "C:\ProgramData\Auslogics\BoostSpeed"
+del /F /S /Q "C:\ProgramData\Downloaded Installations"
+del /F /S /Q "C:\ProgramData\Dropbox\Update\Log"
+del /F /S /Q "C:\ProgramData\GOG.com\Galaxy"
+del /F /S /Q "C:\ProgramData\Oracle\Java\installcache"
+del /F /S /Q "C:\ProgramData\Oracle\Java\installcache_x64"
+del /F /S /Q "%USERPROFILE%\.BigNox"
+del /F /S /Q "%USERPROFILE%\Nox_share\"
+del /F /S /Q "%USERPROFILE%\Documents\Dolphin Emulator\Logs"
+del /F /S /Q "%USERPROFILE%\vmlogs"
+del /F /S /Q "%USERPROFILE%\OpenVPN\log"
+del /F /S /Q "%USERPROFILE%\Dropbox\.dropbox.cache"
+
+
 
 
 pause
