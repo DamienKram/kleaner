@@ -1,0 +1,16 @@
+C:\ProgramData\chocolatey\.chocolatey
+C:\ProgramData\chocolatey\lib-bad
+C:\ProgramData\chocolatey\lib-bkp
+C:\ProgramData\chocolatey\logs
+C:\ProgramData\Auslogics\BoostSpeed
+C:\ProgramData\Downloaded Installations
+C:\ProgramData\Dropbox\Update\Log
+C:\ProgramData\GOG.com\Galaxy
+C:\ProgramData\Oracle\Java\installcache
+C:\ProgramData\Oracle\Java\installcache_x64
+C:\Users\Damien\.BigNox
+C:\Users\Damien\Nox_share\
+C:\Users\Damien\Documents\Dolphin Emulator\Logs
+C:\Users\Damien\vmlogs
+C:\Users\Damien\OpenVPN\log
+C:\Users\Damien\Dropbox\.dropbox.cache
